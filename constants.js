@@ -1,2 +1,2 @@
-const API_KEY = 'AIzaSyA0AjiTv1kLlbTwGQ_X5PX7Tmfb5eXfgXM';
-const SHEET_ID = '15oL3d71VF7VXhyzYK-3N3Ib4M07Tb2WLTzNdSvGOjJQ';
+const API_KEY = 'GCPのAPIキー';
+const SHEET_ID = 'Google Spreadsheet の ID';
