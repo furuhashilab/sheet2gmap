@@ -1,3 +1,3 @@
-const API_KEY = 'AIzaSyDuGsDZbA_qhW_994yBcxGTwh7QssOqGEw';
-const SHEET_ID = '1pTt8WpIbBziz8OxOP2NTCyfBlMWeZ9zRiZ_7tTyHbU8';
+const API_KEY = 'AIzaSyA0AjiTv1kLlbTwGQ_X5PX7Tmfb5eXfgXM';
+const SHEET_ID = '15oL3d71VF7VXhyzYK-3N3Ib4M07Tb2WLTzNdSvGOjJQ';
 
